@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nerdibery
 - 👀 I’m interested in machine learning,iot,robotics
-- 🌱 I’m currently learning iot,robotics
-- 💞️ I’m looking to collaborate on raspberry pi projects and python code
+- 🌱 I’m currently learning iot,robotics using python. proud linux user 
+- 💞️ I’m looking to collaborate on raspberry pi,pygame and python projects
 - 📫 How to reach me ...
 - 😄 Pronouns: nil
 - ⚡ Fun fact: my favorite poem is the raven by poe
